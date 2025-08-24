@@ -6,7 +6,7 @@ Founder & Owner – **Aeron Technologies**
 ---
 
 ## 🌐 Live Website  
-🔗 [Visit Aeron Technologies Website](https://msultanularifeen.github.io/)  
+🔗 [Visit Aeron Technologies Website](https://msultanularifeen.github.io/Aeron-Technologies/)  
 
 *(Note: This repository and live demo are provided **only for educational purposes**.  
 Hosting or redeployment by others is not allowed.)*  
@@ -45,7 +45,7 @@ You may view and learn from the code, but you may NOT:
 
 All rights belong to **Muhammad Sultan Ul Arifeen (Founder & Owner, Aeron Technologies)**.  
 
-See the [LICENSE](./LICENSE) file for details.  
+See the [LICENSE](./LICENSE.txt) file for details.  
 
 ---
 
