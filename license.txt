@@ -1,0 +1,12 @@
+Copyright (c) 2025 Muhammad Sultan Ul Arifeen
+Founder & Owner – Aeron Technologies
+
+All Rights Reserved.
+
+This project is published publicly on GitHub ONLY for educational and reference purposes.  
+You may view and learn from the code, but you may NOT:
+- Host or deploy this project or any modified versions
+- Redistribute the code in any form
+- Use it for commercial or personal deployment
+
+All rights belong to Muhammad Sultan Ul Arifeen (Founder & Owner, Aeron Technologies).
